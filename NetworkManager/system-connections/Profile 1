@@ -1,0 +1,12 @@
+[connection]
+id=Profile 1
+uuid=4f5ea805-5b56-49af-81c4-c06c7a0d2231
+type=ethernet
+timestamp=1520429455
+
+[ipv6]
+method=auto
+
+[ipv4]
+method=auto
+address1=192.168.20.3/24

@@ -1,0 +1,13 @@
+;
+; BIND reverse data file for dosruedastours.com.co
+;
+$TTL	604800
+@	IN	SOA	dns.dosruedastours.com.co. root.dosruedastours.com.co (
+			      2		; Serial
+			 604800		; Refresh
+			  86400		; Retry
+			2419200		; Expire
+			 604800 )	; Negative Cache TTL
+;
+@	IN	NS	dns.dosruedastours.com.co.
+3	IN	PTR	dns.dosruedastours.com.co.

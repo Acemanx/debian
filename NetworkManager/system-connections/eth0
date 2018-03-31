@@ -1,0 +1,17 @@
+[ethernet]
+mac-address=00:0C:29:0B:48:81
+
+[connection]
+id=eth0
+uuid=0bc3a826-82fc-4281-99be-144c58946791
+interface-name=eth0
+type=ethernet
+autoconnect=false
+timestamp=1521090431
+
+[ipv6]
+method=ignore
+
+[ipv4]
+method=manual
+address1=192.168.20.3/24,192.168.20.3
