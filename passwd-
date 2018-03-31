@@ -39,4 +39,4 @@ hplip:x:119:7:HPLIP system user,,,:/var/run/hplip:/bin/false
 Debian-gdm:x:120:127:Gnome Display Manager:/var/lib/gdm3:/bin/false
 aceman:x:1000:1000:aceman,,,:/home/aceman:/bin/bash
 bind:x:121:128::/var/cache/bind:/bin/false
-openldap:x:122:129::/var/lib/ldap:/bin/false
+openldap:x:122:129:OpenLDAP Server Account,,,:/var/lib/ldap:/bin/false
