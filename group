@@ -71,3 +71,4 @@ sambashare:x:130:
 winbindd_priv:x:131:
 DosRuedasTours:x:1001:
 santiago:x:1002:
+prueba:x:1003:
