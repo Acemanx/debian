@@ -41,3 +41,4 @@ aceman:x:1000:1000:aceman,,,:/home/aceman:/bin/bash
 bind:x:121:128::/var/cache/bind:/bin/false
 openldap:x:122:129:OpenLDAP Server Account,,,:/var/lib/ldap:/bin/false
 santiago:x:1001:1002::/home/santiago:/bin/sh
+prueba:x:1002:1003::/home/prueba:/bin/sh
