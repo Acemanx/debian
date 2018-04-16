@@ -42,3 +42,5 @@ bind:x:121:128::/var/cache/bind:/bin/false
 openldap:x:122:129:OpenLDAP Server Account,,,:/var/lib/ldap:/bin/false
 santiago:x:1001:1002::/home/santiago:/bin/sh
 prueba:x:1002:1003::/home/prueba:/bin/sh
+mysql:x:999:1004::/home/mysql:/bin/sh
+tomcat8:x:123:132::/usr/share/tomcat8:/bin/false
