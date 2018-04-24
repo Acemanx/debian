@@ -1,1 +1,1 @@
-deb [arch=amd64] https://packages.microsoft.com/debian/8/prod jessie main
+deb [arch=amd64] https://packages.microsoft.com/ubuntu/16.04/prod xenial main
